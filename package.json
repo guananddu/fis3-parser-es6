@@ -1,0 +1,30 @@
+{
+  "name": "fis3-parser-es6",
+  "version": "1.0.2",
+  "description": "fis3 plugin for es6 parse, use babel-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guananddu/fis3-parser-es6.git"
+  },
+  "keywords": [
+    "fis3",
+    "es6",
+    "babel-core"
+  ],
+  "author": "pooky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guananddu/fis3-parser-es6/issues"
+  },
+  "homepage": "https://github.com/guananddu/fis3-parser-es6#readme",
+  "dependencies": {
+    "babel-core": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "underscore": "^1.8.3"
+  }
+}
