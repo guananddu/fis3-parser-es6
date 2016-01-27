@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-es6",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fis3 plugin for es6 parse, use babel-core",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,8 @@
 // fis3 for es6
 
+require( 'babel-preset-es2015' );
+require( 'babel-preset-react' );
+
 const _ = require( 'underscore' );
 const babel = require( 'babel-core' );
 const transform = babel.transform;
